@@ -1,0 +1,51 @@
+
+/* Main Config (wallpaper) */
+
+@import "~/.config/rofi/master-config.rasi"  
+
+/* ---- Configuration ---- */ 
+configuration {
+  modi: "drun";
+}
+
+window {
+  width: 50%;
+}
+
+/* ---- Imagebox ---- */
+imagebox {
+  orientation: vertical;
+  children:
+    [ "entry", "listbox"];
+}
+
+
+entry {
+  width:46%;
+  expand: false;
+  placeholder: "🎞️ Choose Wallpaper";
+}
+
+/* ---- Listview ---- */
+listview {
+  columns: 3;
+  lines: 1;
+}
+
+/* ---- Element ---- */
+element {
+  orientation: vertical;
+  padding: 0px;
+  spacing: 0px;
+  border-radius: 10px;
+}
+
+element-icon {
+  size: 30%;
+}
+
+element-text {
+  font: "Fira Code SemiBold 12";
+  vertical-align: 0.5;
+  horizontal-align: 0.5;
+}
