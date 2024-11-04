@@ -1,0 +1,16 @@
+/* Main Config - emoji */
+
+@import "~/.config/rofi/master-config.rasi" 
+
+/* ---- Entry ---- */
+entry {
+  width: 46%;
+  placeholder: "💫 Search Emoji's  **note** 👀 Click or Return to choose | Ctrl V to Paste";
+}
+
+/* ---- Listview ---- */
+listview {
+  columns: 2;
+  lines: 8;
+}
+
