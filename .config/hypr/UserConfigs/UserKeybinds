@@ -1,0 +1,36 @@
+
+# This is where you put your own keybinds. Be Mindful to check as well ~/.config/hypr/configs/Keybinds.conf to avoid conflict
+# You can also merge this into the Keybinds config, this is just for easier change of main apps such as rofi and browser etc
+# See https://wiki.hyprland.org/Configuring/Keywords/ for more settings and variables
+
+$mainMod = SUPER
+$files= thunar
+$term = kitty
+$scriptsDir = $HOME/.config/hypr/scripts
+$UserScripts = $HOME/.config/hypr/UserScripts
+$browser = firefox
+
+
+bind = $mainMod, F, exec, $browser # launch web browser
+
+# rofi App launcher
+bind = $mainMod, A, exec, pkill rofi || rofi -show drun -modi drun,filebrowser,run,window
+
+
+bind = $mainMod, Return, exec, $term  # Launch terminal
+bind = $mainMod, E, exec, $files # Launch file manager
+
+# pyprland
+bind = $mainMod SHIFT, Return, exec, pypr toggle term # Dropdown terminal
+bind = $mainMod, Z, exec, pypr zoom # Toggle Zoom
+
+# User Added Keybinds
+bind = $mainMod SHIFT, O, exec, $UserScripts/ZshChangeTheme.sh # Change oh-my-zsh theme
+bindn = ALT_L, SHIFT_L, exec, $scriptsDir/SwitchKeyboardLayout.sh # Changing the keyboard layout
+
+# For passthrough keyboard into a VM
+# bind = $mainMod ALT, P, submap, passthru
+#submap = passthru
+# to unbind
+#bind = $mainMod ALT, P, submap, reset
+#submap = reset
