@@ -1,6 +1,6 @@
 # Hyprpanel config file 
 
-## Installation
+## Warning!
 Please install Hyprpanel if you don't have it installed. You can download it [here](https://hyprpanel.com/). Feel free to message me if you need help with the installation.
 
 ## Usage
