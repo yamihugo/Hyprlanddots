@@ -52,16 +52,18 @@
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image4.png" width="455" />
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image1.png" width="455" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image4.png" width="410" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image1.png" width="410" />
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image3.png" width="455" />
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image2.png" width="455" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image3.png" width="410" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image2.png" width="410" />
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image6.png" width="455" />
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image7.png" width="455" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image6.png" width="410" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image7.png" width="410" />
 </div>
+
+### Will add more screenshots to the showcase and update the readme with to-do's
