@@ -47,8 +47,8 @@
 </div>
 
 <div style="display: flex;">
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image5.png" width="420" />
-    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image8.png" width="420" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image5.png" width="410" />
+    <img src="https://github.com/yamihugo/Hyprlanddots/blob/ecad7ef28a77f76e3281c2e6ccfc0ce39432717c/Images/image8.png" width="410" />
 </div>
 
 <div style="display: flex;">
